@@ -1,0 +1,33 @@
+﻿02/03/2021 11:57:48 | INFO | Ejecutando operaciones utilizando .\Maquinas E IPS.csv
+02/03/2021 11:57:48 | DEBUG | Errores de calidad: 0
+02/03/2021 11:57:48 | ERROR | No se pudo conectar con A38W08
+02/03/2021 11:57:50 | ERROR | No se pudo conectar con A38W09
+02/03/2021 11:57:53 | ERROR | No se pudo conectar con A38W10
+02/03/2021 11:57:55 | ERROR | No se pudo conectar con A38W11
+02/03/2021 11:57:57 | ERROR | No se pudo conectar con A38W12
+02/03/2021 11:58:00 | ERROR | No se pudo conectar con A38W13
+02/03/2021 11:58:02 | ERROR | No se pudo conectar con A38W14
+02/03/2021 11:58:04 | ERROR | No se pudo conectar con A38W15
+02/03/2021 11:58:07 | ERROR | No se pudo conectar con A38W16
+02/03/2021 11:58:09 | ERROR | No se pudo conectar con A38W17
+02/03/2021 11:58:11 | ERROR | No se pudo conectar con A38W18
+02/03/2021 11:58:13 | ERROR | No se pudo conectar con A38W19
+02/03/2021 11:58:16 | ERROR | No se pudo conectar con A38W20
+02/03/2021 11:58:18 | ERROR | No se pudo conectar con A38W21
+02/03/2021 11:58:20 | ERROR | No se pudo conectar con A38W22
+02/03/2021 11:58:23 | ERROR | No se pudo conectar con A38W23
+02/03/2021 11:58:25 | ERROR | No se pudo conectar con A38W24
+02/03/2021 11:58:27 | ERROR | No se pudo conectar con A38W25
+02/03/2021 11:58:30 | ERROR | No se pudo conectar con A38W26
+02/03/2021 11:58:32 | ERROR | No se pudo conectar con A38W27
+02/03/2021 11:58:34 | ERROR | No se pudo conectar con A38W28
+02/03/2021 11:58:36 | ERROR | No se pudo conectar con A38W29
+02/03/2021 11:58:39 | ERROR | No se pudo conectar con A38W30
+02/03/2021 11:58:41 | ERROR | No se pudo conectar con A38W31
+02/03/2021 11:58:43 | ERROR | No se pudo conectar con A38W32
+02/03/2021 11:58:46 | ERROR | No se pudo conectar con A38W33
+02/03/2021 11:58:48 | ERROR | No se pudo conectar con A38W34
+02/03/2021 11:58:50 | ERROR | No se pudo conectar con A38W35
+02/03/2021 11:58:53 | ERROR | No se pudo conectar con A38W36
+02/03/2021 11:58:55 | ERROR | No se pudo conectar con A38W37
+02/03/2021 11:58:55 | TRACE | Ejecuciones: 33 | Tiempo: 587
